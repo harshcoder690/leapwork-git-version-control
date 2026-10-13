@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T10:19:58.608Z",
+  "generatedAt": "2026-10-13T10:21:02.917Z",
   "repo": {
     "connectorId": 46,
     "repoSlug": "harshcoder690/leapwork-git-version-control",
@@ -12,6 +12,13 @@
     "name": "New team"
   },
   "tree": [
+    {
+      "assetId": 2491,
+      "displayId": "TC-2",
+      "name": "Add Category to a test case",
+      "kind": "test-case",
+      "repoPath": "TC-2-Add-Category-to-a-test-case.spec.ts"
+    },
     {
       "assetId": 2490,
       "displayId": "TC-1",
@@ -27,6 +34,14 @@
       "displayId": "TC-1",
       "name": "Add Category",
       "repoPath": "TC-1-Add-Category.spec.ts",
+      "parentAssetId": 2410
+    },
+    {
+      "assetId": 2491,
+      "assetKind": "test-case",
+      "displayId": "TC-2",
+      "name": "Add Category to a test case",
+      "repoPath": "TC-2-Add-Category-to-a-test-case.spec.ts",
       "parentAssetId": 2410
     }
   ]
